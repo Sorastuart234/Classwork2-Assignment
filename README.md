@@ -1,1 +1,2 @@
 # Classwork2-Assignment
+# The following code will run a program that will check a string value for its delimiters and put them into a stack and check if there is a equal balance or unbalance.The code uses the push and pop commands to insert and remove the last element from an array in the LIFO order. If the top value equals -1, then the string or in this case, the number of delimiters is balanced. If not equal to 1, then it is unbalanced and the program will let the user know if it is unbalanced. 
